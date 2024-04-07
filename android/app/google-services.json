@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046944417410",
+    "project_id": "relax-ladies",
+    "storage_bucket": "relax-ladies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046944417410:android:56d706cd74f0ade95ad69b",
+        "android_client_info": {
+          "package_name": "com.example.relax_ladies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7WsSxv4yOTPJq82417zGmdYBkCktx4zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
